@@ -1,5 +1,5 @@
-# chelseadole.github.io
-Professional portfolio -- GH pages version.
+# alexpparker.github.io
+Learn Mathematics -- GH pages version.
 
 Built with:
 
